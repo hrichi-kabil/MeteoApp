@@ -1,0 +1,1104 @@
+			 web scrapping from : https://www.foodie.fi/products/
+
+
+
+name : chiquita-banaani
+picture : https://cdn.s-cloud.fi/v1/h220w180/product/ean/2000503600002_kuva1.jpg
+Caractéristiques : Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+96 kJ / 23 kcal
+1.15%
+
+
+Rasvaa
+0.3 g
+
+                                     0.43% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.04 g
+
+                                     0.2% 
+                                
+
+
+Hiilihydraattia
+3.45 g
+
+                                     1.33% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+3.35 g
+
+
+
+
+Ravintokuitua
+1.4 g
+
+
+
+
+Proteiinia
+0.56 g
+
+                                     1.12% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17%
+qt : ~0.19 kg
+priceKG : 1.49€/kg
+pay_fab : 
+
+
+Tuotetiedot
+Valmistusmaa
+Ravintosisältö
+Ominaisuudet
+Sisätilakartta
+
+
+
+
+
+
+
+
+
+
+
+Tuotekuvaus
+Chiquita-banaani, Class Extra -luokka
+
+
+Valmistusmaa
+Panama
+
+
+
+
+
+Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+96 kJ / 23 kcal
+1.15%
+
+
+Rasvaa
+0.3 g
+
+                                     0.43% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.04 g
+
+                                     0.2% 
+                                
+
+
+Hiilihydraattia
+3.45 g
+
+                                     1.33% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+3.35 g
+
+
+
+
+Ravintokuitua
+1.4 g
+
+
+
+
+Proteiinia
+0.56 g
+
+                                     1.12% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17% 
+                                
+
+
+
+* Aikuisen keskivertokäyttäjän saannin vertailuarvo (8400 kj / 2000 kcal).
+
+
+
+
+
+Muut tuotetiedot
+
+
+Maku (SAP)
+Ei sisältöä 
+
+
+HeVi (hedelmät ja vihannekset): Laatuluokitus
+laatuluokka Extra 
+
+
+Mittatiedot
+
+
+Bruttopaino
+1 kgm
+
+
+Nettopaino
+1 kgm
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------- 
+name : reilun-kaupan-banaani-luomu
+picture : https://cdn.s-cloud.fi/v1/h220w180/product/ean/2000503700009_kuva1.jpg
+Caractéristiques : Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+117 kJ / 28 kcal
+1.4%
+
+
+Rasvaa
+0.4 g
+
+                                     0.57% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.06 g
+
+                                     0.3% 
+                                
+
+
+Hiilihydraattia
+4.2 g
+
+                                     1.62% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+4.2 g
+
+
+
+
+Sokeria
+13.5 g
+
+                                     15% 
+                                
+
+
+Ravintokuitua
+1.9 g
+
+
+
+
+Proteiinia
+0.9 g
+
+                                     1.8% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17%
+qt : ~0.19 kg
+priceKG : 1.75€/kg
+pay_fab : 
+
+
+Tuotetiedot
+Valmistusmaa
+Ravintosisältö
+Ominaisuudet
+Sisätilakartta
+
+
+
+
+
+
+
+
+
+
+
+
+
+Valmistusmaa
+Peru
+
+
+
+
+
+Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+117 kJ / 28 kcal
+1.4%
+
+
+Rasvaa
+0.4 g
+
+                                     0.57% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.06 g
+
+                                     0.3% 
+                                
+
+
+Hiilihydraattia
+4.2 g
+
+                                     1.62% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+4.2 g
+
+
+
+
+Sokeria
+13.5 g
+
+                                     15% 
+                                
+
+
+Ravintokuitua
+1.9 g
+
+
+
+
+Proteiinia
+0.9 g
+
+                                     1.8% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17% 
+                                
+
+
+
+* Aikuisen keskivertokäyttäjän saannin vertailuarvo (8400 kj / 2000 kcal).
+
+
+
+
+
+Muut tuotetiedot
+
+
+Luomu
+kyllä 
+
+
+HeVi (hedelmät ja vihannekset): Laatuluokitus
+laatuluokka 1 
+
+
+Mittatiedot
+
+
+Bruttopaino
+1 kgm
+
+
+Nettopaino
+1 kgm
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------- 
+name : paaryna-conference-i-hollanti
+picture : https://cdn.s-cloud.fi/v1/h220w180/product/ean/2000522100002_kuva1.jpg
+Caractéristiques : Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+108 kJ / 26 kcal
+1.3%
+
+
+Rasvaa
+0.7 g
+
+                                     1% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.04 g
+
+                                     0.2% 
+                                
+
+
+Hiilihydraattia
+1.1 g
+
+                                     0.42% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+0.3 g
+
+
+
+
+Sokeria
+8 g
+
+                                     8.89% 
+                                
+
+
+Ravintokuitua
+0.8 g
+
+
+
+
+Proteiinia
+3.1 g
+
+                                     6.2% 
+                                
+
+
+Suola
+0.02 g
+
+                                     0.33%
+qt : ~0.25 kg
+priceKG : 2.39€/kg
+pay_fab : 
+
+
+Tuotetiedot
+Valmistusmaa
+Ravintosisältö
+Ominaisuudet
+Sisätilakartta
+
+
+
+
+
+
+
+
+
+
+
+
+
+Valmistusmaa
+Alankomaat
+
+
+
+
+
+Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+108 kJ / 26 kcal
+1.3%
+
+
+Rasvaa
+0.7 g
+
+                                     1% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.04 g
+
+                                     0.2% 
+                                
+
+
+Hiilihydraattia
+1.1 g
+
+                                     0.42% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+0.3 g
+
+
+
+
+Sokeria
+8 g
+
+                                     8.89% 
+                                
+
+
+Ravintokuitua
+0.8 g
+
+
+
+
+Proteiinia
+3.1 g
+
+                                     6.2% 
+                                
+
+
+Suola
+0.02 g
+
+                                     0.33% 
+                                
+
+
+
+* Aikuisen keskivertokäyttäjän saannin vertailuarvo (8400 kj / 2000 kcal).
+
+
+
+
+
+Muut tuotetiedot
+
+
+HeVi (hedelmät ja vihannekset): Laatuluokitus
+laatuluokka 1 
+
+
+Mittatiedot
+
+
+Bruttopaino
+1 kgm
+
+
+Nettopaino
+1 kgm
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------- 
+name : rainbow-800g-avokado
+picture : https://cdn.s-cloud.fi/v1/h220w180/product/ean/7340011432371_kuva1.jpg
+Caractéristiques : Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+87 kJ / 21 kcal
+1.05%
+
+
+Rasvaa
+0.4 g
+
+                                     0.57% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.01 g
+
+                                     0.05% 
+                                
+
+
+Hiilihydraattia
+0.5 g
+
+                                     0.19% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+0.4 g
+
+
+
+
+Ravintokuitua
+2.8 g
+
+
+
+
+Proteiinia
+2.4 g
+
+                                     4.8% 
+                                
+
+
+Suola
+0.12 g
+
+                                     2%
+qt : 0.80 kg
+priceKG : 4.36€/kg
+pay_fab : 
+
+
+Tuotetiedot
+Valmistusmaa
+Ravintosisältö
+Ominaisuudet
+Sisätilakartta
+
+
+
+
+
+
+
+
+
+
+
+Tuotekuvaus
+Rainbow avokadot 800g on pakattu rasiaan ja verkkopussiin. Avokadojen kuoren väri vaihtelee vaalean vihreästä hyvin tumman vihreään. Avokadot syödään aina kypsinä. Kypsän avokadon pinta antaa painettaessa hieman periksi. Hedelmäliha on pehmeää ja maku on mieto, hieman pähkinäinen. Avokadon voi syödä kuoresta suoraan sitruunamehulla ja mustapippurilla maustettuna. Lisää paloiteltua avokadoa salaatteihin tai valmista siitä guacamolea tai kylmää avokadokeittoa.
+Ainesosat
+Avokado
+Päivitämme palvelun tuotetietoja aktiivisesti. Suosittelemme kuitenkin tarkistamaan ainesosat aina myös myyntipakkauksesta.
+
+
+Valmistusmaa
+Peru
+
+
+
+
+
+Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+87 kJ / 21 kcal
+1.05%
+
+
+Rasvaa
+0.4 g
+
+                                     0.57% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.01 g
+
+                                     0.05% 
+                                
+
+
+Hiilihydraattia
+0.5 g
+
+                                     0.19% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+0.4 g
+
+
+
+
+Ravintokuitua
+2.8 g
+
+
+
+
+Proteiinia
+2.4 g
+
+                                     4.8% 
+                                
+
+
+Suola
+0.12 g
+
+                                     2% 
+                                
+
+
+
+* Aikuisen keskivertokäyttäjän saannin vertailuarvo (8400 kj / 2000 kcal).
+
+
+
+
+
+Muut tuotetiedot
+
+
+HeVi (hedelmät ja vihannekset): Laatuluokitus
+laatuluokka 1 
+
+
+Mittatiedot
+
+
+Bruttopaino
+0.89 kgm
+
+
+Nettopaino
+0.8 kgm
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------- 
+name : rainbow-500g-vihrea-siemeneton-viinirypale
+picture : https://cdn.s-cloud.fi/v1/h220w180/product/ean/6414894500609_kuva1.jpg
+Caractéristiques : Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+62 kJ / 15 kcal
+0.75%
+
+
+Rasvaa
+0.2 g
+
+                                     0.29% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.03 g
+
+                                     0.15% 
+                                
+
+
+Hiilihydraattia
+0.3 g
+
+                                     0.12% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+0.1 g
+
+
+
+
+Ravintokuitua
+1.5 g
+
+
+
+
+Proteiinia
+2.1 g
+
+                                     4.2% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17%
+qt : 0.50 kg
+priceKG : 3.78€/kg
+pay_fab : 
+
+
+Tuotetiedot
+Ravintosisältö
+Ominaisuudet
+Sisätilakartta
+
+
+
+
+
+
+
+
+
+
+
+Tuotekuvaus
+Rainbow vihreät siemenettömät viinirypäleet ovat maukkaita naposteltavia sellaisenaan tai hedelmäsalaatissa.
+Ainesosat
+Vihreä viinirypäle
+Päivitämme palvelun tuotetietoja aktiivisesti. Suosittelemme kuitenkin tarkistamaan ainesosat aina myös myyntipakkauksesta.
+
+
+
+
+
+Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+62 kJ / 15 kcal
+0.75%
+
+
+Rasvaa
+0.2 g
+
+                                     0.29% 
+                                
+
+
+Rasvaa, josta tyydyttyneitä rasvoja
+0.03 g
+
+                                     0.15% 
+                                
+
+
+Hiilihydraattia
+0.3 g
+
+                                     0.12% 
+                                
+
+
+Hiilihydraattia, josta sokereita
+0.1 g
+
+
+
+
+Ravintokuitua
+1.5 g
+
+
+
+
+Proteiinia
+2.1 g
+
+                                     4.2% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17% 
+                                
+
+
+
+* Aikuisen keskivertokäyttäjän saannin vertailuarvo (8400 kj / 2000 kcal).
+
+
+
+
+
+Muut tuotetiedot
+
+
+HeVi (hedelmät ja vihannekset): Laatuluokitus
+laatuluokka 1 
+
+
+Mittatiedot
+
+
+Bruttopaino
+0.58 kgm
+
+
+Nettopaino
+0.5 kgm
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------- 
+name : rainbow-500g-tumma-siemeneton-viinirypale
+picture : https://cdn.s-cloud.fi/v1/h220w180/product/ean/6414894500401_kuva1.jpg
+Caractéristiques : Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+306 kJ / 73 kcal
+3.65%
+
+
+Rasvaa
+0.4 g
+
+                                     0.57% 
+                                
+
+
+Hiilihydraattia
+15.5 g
+
+                                     5.96% 
+                                
+
+
+Hiilihydraattia, josta sokereita, yksikkö tuntematon
+15.5 g
+
+                                     17.22% 
+                                
+
+
+Ravintokuitua
+1.1 g
+
+
+
+
+Proteiinia
+0.6 g
+
+                                     1.2% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17%
+qt : 0.50 kg
+priceKG : 4.38€/kg
+pay_fab : 
+
+
+Tuotetiedot
+Valmistusmaa
+Ravintosisältö
+Ominaisuudet
+Sisätilakartta
+
+
+
+
+
+
+
+
+
+
+
+Tuotekuvaus
+Rainbow tummat siemenettömät viinirypäleet ovat maukkaita naposteltavia sellaisenaan tai hedelmäsalaatissa.
+Ainesosat
+RYPÄLE
+Päivitämme palvelun tuotetietoja aktiivisesti. Suosittelemme kuitenkin tarkistamaan ainesosat aina myös myyntipakkauksesta.
+
+
+Maahantuoja
+
+                            Satotukku Oy
+                            Tuupakantie 32 01740 Vantaa
+
+
+
+
+
+
+
+Ravintoarvoilmoitus per 
+100g/100ml
+RI*
+
+
+Energiaa
+306 kJ / 73 kcal
+3.65%
+
+
+Rasvaa
+0.4 g
+
+                                     0.57% 
+                                
+
+
+Hiilihydraattia
+15.5 g
+
+                                     5.96% 
+                                
+
+
+Hiilihydraattia, josta sokereita, yksikkö tuntematon
+15.5 g
+
+                                     17.22% 
+                                
+
+
+Ravintokuitua
+1.1 g
+
+
+
+
+Proteiinia
+0.6 g
+
+                                     1.2% 
+                                
+
+
+Suola
+0.01 g
+
+                                     0.17% 
+                                
+
+
+
+* Aikuisen keskivertokäyttäjän saannin vertailuarvo (8400 kj / 2000 kcal).
+
+
+
+
+
+Muut tuotetiedot
+
+
+Sokerin määrä
+15,50 
+
+
+HeVi (hedelmät ja vihannekset): Laatuluokitus
+laatuluokka 1 
+
+
+Mittatiedot
+
+
+Bruttopaino
+0.57 kgm
+
+
+Nettopaino
+0.5 kgm
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------- 
