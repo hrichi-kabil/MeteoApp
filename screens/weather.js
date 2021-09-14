@@ -10,24 +10,6 @@ export default class Weather extends React.Component {
     }
   }
 
-
-  // componentDidMount() {
-  //   return fetch('http://api.openweathermap.org/data/2.5/weather?q='+this.props.cnt+',&APPID=d9707bd7d6d666fc7abe9a6424066cd6')
-  //     .then((response) => response.json())
-  //     .then((responseJson) => {
-
-
-  //       this.setState({
-  //         isLoading: false,
-  //         dataSource: responseJson,
-  //       })
-  //       console.log(this.props.cnt)
-  //     })
-  //     .catch((error) => {
-  //       console.log(error)
-  //     });
-  // }
-
   render() {
 
 
