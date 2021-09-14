@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ActivityIndicator, StyleSheet, View, Text, Button, TextInput, ScrollView, ImageBackground, ShadowPropTypesIOS } from "react-native";
-import * as Animatable from 'react-native-animatable';
+//one
 export default class Weather extends React.Component {
   constructor(props) {
     super(props);
@@ -9,8 +9,7 @@ export default class Weather extends React.Component {
       dataSource: null,
     }
   }
-
-
+ 
   render() {
 
 
