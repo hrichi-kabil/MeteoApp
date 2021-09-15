@@ -14,7 +14,7 @@ export default class App extends React.Component {
   }
 
  change_state(){
-    fetch('http://api.openweathermap.org/data/2.5/weather?q='+this.state.name+',&APPID=ur key')
+    fetch('http://api.openweathermap.org/data/2.5/weather?q='+this.state.name+',&APPID=ur key here ')
       .then((response) => response.json())
       .then((responseJson) => {
 
