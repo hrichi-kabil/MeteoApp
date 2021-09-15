@@ -1,8 +1,6 @@
 import React, { Component, useState } from "react";
 import { StyleSheet, View, Text, Button, TextInput, ScrollView, ImageBackground, ColorPropType } from "react-native";
-import Location from './screens/loc';
 import Weather from "./screens/weather";
-import * as Animatable from 'react-native-animatable';
 
 export default class App extends React.Component {
 
@@ -16,7 +14,7 @@ export default class App extends React.Component {
   }
 
  change_state(){
-    fetch('http://api.openweathermap.org/data/2.5/weather?q='+this.state.name+',&APPID=d9707bd7d6d666fc7abe9a6424066cd6')
+    fetch('http://api.openweathermap.org/data/2.5/weather?q='+this.state.name+',&APPID=ur key')
       .then((response) => response.json())
       .then((responseJson) => {
 
